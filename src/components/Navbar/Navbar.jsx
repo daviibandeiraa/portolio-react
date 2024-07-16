@@ -10,10 +10,10 @@ const Navbar = () => {
         <img className="w-16" src={logo} alt="logo" />
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl"> 
-        <FaLinkedin className="cursor-pointer hover:text-violet-600"/>
-        <FaGithub className="cursor-pointer hover:text-violet-600"/>
-        <FaInstagram className="cursor-pointer hover:text-violet-600"/>
-        <FaXTwitter className="cursor-pointer hover:text-violet-600"/>
+        <FaLinkedin className="cursor-pointer hover:text-violet-600" target="_blank" href="https://www.linkedin.com/in/davibandeira/"/>
+        <FaGithub className="cursor-pointer hover:text-violet-600" target="_blank" href="https://github.com/daviibandeiraa" />
+        <FaInstagram className="cursor-pointer hover:text-violet-600" target="_blank" href="https://instagram.com/bandeiraa_04"/>
+        <FaXTwitter className="cursor-pointer hover:text-violet-600" target="_blank" href="https://x.com/daviibandeiraa" />
     </div>
   </nav>
 }
