@@ -11,7 +11,7 @@ const Navbar = () => {
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl"> 
         <a href="https://www.linkedin.com/in/davibandeira/"><FaLinkedin className="cursor-pointer hover:text-violet-600"/></a>
-        <a href="https://www.github.com/in/daviibandeiraa/"><FaGithub className="cursor-pointer hover:text-violet-600"/></a>
+        <a href="https://www.github.com/daviibandeiraa/"><FaGithub className="cursor-pointer hover:text-violet-600"/></a>
         <a href="https://instagram.com/bandeiraa_04"><FaInstagram className="cursor-pointer hover:text-violet-600"></FaInstagram></a>
         <a href="https://x.com/daviibandeiraa">  <FaXTwitter className="cursor-pointer hover:text-violet-600"></FaXTwitter></a>
     </div>
