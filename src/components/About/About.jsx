@@ -14,7 +14,7 @@ const About = () => {
       <div className="flex flex-wrap align-center">
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center">
-            <img className="rounded-full bg-violet-900 shadow-lg shadow-indigo-800/50 w-3/5" src={AboutImg} alt="About" />
+            <img className="rounded-full bg-violet-900 shadow-lg shadow-indigo-800/50 w-3.5/5" src={AboutImg} alt="About" />
           </div>
         </div>
         <div className="flex justify-center lg:justify-start pt-10">
