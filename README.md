@@ -1,6 +1,6 @@
 # React + Vite
 
-https://portolio-react-zek2-f9o86oi80-daviibandeiraas-projects.vercel.app/
+https://portolio-react-daviibandeiraas-projects.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
