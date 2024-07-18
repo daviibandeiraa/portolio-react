@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex justify-center ">
-            <img className="rounded-full border-2 border-x-violet-700 border-y-violet-700 bg-violet-900 shadow-lg shadow-indigo-800/50" src={profilePicture} alt="Davi Bandeira Picture" />
+            <img className="rounded-full border-2 border-x-violet-700 border-y-violet-700 bg-violet-900 shadow-lg shadow-indigo-800/50 mb-10" src={profilePicture} alt="Davi Bandeira Picture" />
           </div>
         </div>
       </div>
