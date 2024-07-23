@@ -11,7 +11,7 @@ export const EXPERIENCES = [
         technologies: ["Angular", "Typescript", "SQL Server", ".NET"]
     },
     {
-      year: "2023/07 - 2024/03",
+      year: "2023/07 - Today",
       role: "Web Developer",
       company: "Agência Site Bem Feito",
       description: `As a web developer, I specialize in creating various types of websites using HTML, CSS, and JavaScript to build interactive and responsive interfaces. I leverage Wordpress to create robust and scalable sites, including high-converting landing pages, effective institutional sites that communicate brand identity, e-commerce stores that facilitate online sales, and catalogs that showcase products attractively. My experience spans from initial concept through implementation and maintenance, ensuring that websites meet clients' functional and aesthetic requirements.`,
